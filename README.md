@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=ConflatebleNoir&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=twothousandcats&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
   <h1>Привет, меня зовут Максим.</h1>
@@ -38,6 +38,6 @@
 ---
 ### :fire: Моя статистика:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ConflatebleNoir&theme=dark&background=00000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=twothousandcats&theme=dark&background=00000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConflatebleNoir&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twothousandcats&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
